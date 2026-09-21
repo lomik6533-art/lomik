@@ -633,4 +633,4 @@ function isLight(hex) {
 
 document.getElementById('authOverlay').addEventListener('click', (e) => {
     if (e.target === document.getElementById('authOverlay')) closeAuthModal();
-});
+});.
