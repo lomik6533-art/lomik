@@ -1443,4 +1443,4 @@ footer {
     .palette-actions { flex-direction: column; }
     .palette-action-btn { width: 100%; }
     .trend-item::after { opacity: 1; transform: translateY(0); }
-}
+}.
